@@ -1,0 +1,41 @@
+# Análise da Qualidade da Água
+
+### Instalação do Ambiente Virtual e Requisitos
+Instalação Venv:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+Instalação Requirements:
+```
+pip install -r requirements.txt
+```
+
+### Conjunto de Dados
+
+O conjunto de dados utilizado está disponível no seguinte link: [Water Quality Dataset](https://www.kaggle.com/datasets/mssmartypants/water-quality?resource=download).
+
+### Escolha do conjunto de dados: Qualidade da água
+A qualidade da água é uma preocupação global, ela afeta diretamente a nossa saúde , a biodiversidade e a sustentabilidade ambiental. A escolha deste conjunto de dados foi motivada pela necessidade de explorar e compreender os diferentes aspectos que influenciam a qualidade da água em diversas regiões.
+
+### Componentes da Água
+
+A qualidade da água é um tema extremamente importante, pois, ela afeta diretamente nossa saúde, a vida dos animais e a preservação do meio ambiente. Escolhemos trabalhar com esses dados para entender melhor o que influencia na qualidade da água em diferentes regiões.
+
+### Avaliação da Qualidade da Água
+
+Para determinar a qualidade da água, são considerados diversos parâmetros, tais como:
+
+- Concentração de poluentes
+- pH
+- Turbidez
+- Coliformes fecais
+- Oxigênio dissolvido
+- TDS (Total Dissolved Solids)
+
+Locais com baixas concentrações de poluentes, pH neutro ou ligeiramente alcalino, baixa turbidez, baixos níveis de coliformes fecais, oxigênio dissolvido adequado e baixos níveis de TDS geralmente indicam água de melhor qualidade.
+Graças a análise dos parâmetros acima podemos determinar quais locais têm água de melhor qualidade.
+
+### GitHub
+
+https://github.com/Dougl4sSales/IA_Quakidade_Agua.git
